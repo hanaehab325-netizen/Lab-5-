@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial;
+}
+
+.container {
+  width: 450px;
+  max-width: 90%;
+  margin: 80px auto;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+
+.comment {
+  background: #f1f1f1;
+  padding: 12px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+.comment button {
+  border: none;
+  cursor: pointer;
+}
